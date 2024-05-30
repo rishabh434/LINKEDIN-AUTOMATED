@@ -31,8 +31,6 @@ python Run_me.py
  
  
 
-
-<img src="https://user-images.githubusercontent.com/62801988/130929505-4a17bdbd-a6ab-461a-85be-1af82d7f1d53.png" style="max-width:16%;">
 # How to contibute :scroll:
 
 ### 0. Star The Repo :star2:
