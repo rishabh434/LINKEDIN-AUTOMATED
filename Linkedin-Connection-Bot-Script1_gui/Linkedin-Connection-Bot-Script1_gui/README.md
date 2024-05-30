@@ -61,17 +61,7 @@ CONTRIBUTE AND PUSH TO YOUR REPO THEN MAKE A PULL REQUEST HERE.
 
 
 An Automation Bot that Sends connection requests to n number of user from different fields and saves their data to a CSV file.
-## Use Cases 🤞😊
-![lINKEDUIN (1)](https://user-images.githubusercontent.com/62801988/130943767-b73eb21e-a57a-4cd9-9928-32d1393d2c49.png)
 
-# Installation Video
-https://youtu.be/KcLBB9dqmRw
-
-
-
-
-# Follow me on
-[![](https://user-images.githubusercontent.com/62801988/130545739-f1d9c21b-9424-4c35-b0ea-842586b42760.png)](https://www.linkedin.com/in/prabaljainn)  [![](https://user-images.githubusercontent.com/62801988/130545737-5cefd672-1e66-49d3-997b-bcaabf38fc00.png)](https://github.com/prabaljainn)  [![](https://user-images.githubusercontent.com/62801988/130545734-b58d01bd-c51f-46f6-96d9-7b921f09e0fc.png)](https://www.facebook.com/prabaljainn)
 
 
 
